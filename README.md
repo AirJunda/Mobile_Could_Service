@@ -1,4 +1,4 @@
-# Assignment 2 
+# This is the project for Coursera MOOC
 
 ## Overview
 
