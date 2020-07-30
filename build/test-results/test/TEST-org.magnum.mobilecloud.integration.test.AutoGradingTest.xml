@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.magnum.mobilecloud.integration.test.AutoGradingTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-07-24T18:22:46" hostname="DESKTOP-9L9CTJQ" time="1.242">
+  <properties/>
+  <testcase name="testLikingNonExistantVideo" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.819"/>
+  <testcase name="testAddVideoMetadata" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.154"/>
+  <testcase name="testFindByName" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.044"/>
+  <testcase name="testDenyVideoAddWithoutOAuth" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.036"/>
+  <testcase name="testLikingTwice" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.065"/>
+  <testcase name="testFindByDurationLessThan" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.043"/>
+  <testcase name="testAddGetVideo" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.026"/>
+  <testcase name="testLikeCount" classname="org.magnum.mobilecloud.integration.test.AutoGradingTest" time="0.053"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
