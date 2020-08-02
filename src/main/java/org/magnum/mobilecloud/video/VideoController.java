@@ -36,6 +36,8 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Set;
 
+
+// I WILL USE MONGODB INSTEAD OF JPA!!
 @Controller
 public class VideoController {
 	// public class VideoSvc implements VideoSvcApi
